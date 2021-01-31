@@ -1,0 +1,91 @@
+.body {
+  text-align: center;
+  font-size: 18px;
+}
+
+.container {
+  position: relative;
+  display: inline-block;
+  margin: 50px 500px;
+  height: 420px;
+  width: 400px;
+  border-radius: 20px;
+  border: 1px solid #1687a7;
+  text-align: center;
+  bottom: 900px;
+  background-color: white;
+}
+
+.card {
+  border-radius: 20px;
+  border: 1px;
+  background-image: url('https://images.unsplash.com/photo-1579546929662-711aa81148cf?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHw%3D&w=1000&q=80');
+  background-size: auto;
+}
+
+.profile-picture {
+  border: 5px solid white;
+  top: 50px;
+  position: relative;
+  border-radius: 50%;
+}
+
+.profile-information {
+  position: relative;
+  top: 50px;
+}
+
+.top-baloon {
+  display: inline-block;
+  position: relative;
+  right: 500px;
+  bottom: 500px;
+}
+
+.second-baloon {
+  display: inline-block;
+  position: relative;
+  left: 1000px;
+  bottom: 1300px;
+}
+
+.age {
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: lighter;
+  color: grey;
+
+}
+
+.second-line {
+  width: 398.5px;
+  border-color: grey;
+  border-style: solid;
+
+}
+
+h1 {
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: bolder;
+}
+
+h2 {
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: lighter;
+  color: grey;
+}
+
+.numbers {
+  word-spacing: 40px;
+}
+
+.followers {
+  word-spacing: 70px;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: lighter;
+  color: grey;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
